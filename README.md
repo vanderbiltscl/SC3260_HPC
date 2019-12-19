@@ -11,6 +11,7 @@ Spring 2020
 | Overview of HPC    | | |
 | Introduction to parallel computing      | | |
 | Introduction to C++ | | |
+| Performance analysis | | |
 | Shared memory | | |
 | GPU | | |
 | Interconect | | |
