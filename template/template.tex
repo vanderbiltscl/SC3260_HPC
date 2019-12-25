@@ -1,0 +1,258 @@
+\documentclass[10pt,aspectratio=169,xcolor={dvipsnames}]{beamer}
+%\documentclass[handout]{beamer}
+%\usepackage{pacman}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{bm}
+
+\usepackage{graphicx}
+%\usepackage{enumitem}
+\usepackage{xcolor}
+
+\usepackage{wasysym}
+\usepackage{url}
+\usepackage{xspace}
+\usepackage[absolute,showboxes,overlay]{textpos}
+\usepackage{enumerate}
+\usepackage{ifthen}
+\usepackage{multirow}
+
+\usepackage{tcolorbox}
+\tcbuselibrary{theorems}
+\tcbuselibrary{skins}
+\tcbuselibrary{fitting}
+\newtcolorbox{mybigbox}[2][]{fonttitle=\bfseries,enhanced,attach boxed title to top left={xshift=10mm,yshift=-2mm},title=#2,#1}
+
+%\TPshowboxestrue % commenter une fois fini
+\TPshowboxesfalse % décommenter pour faire disparaitre les boites
+\textblockorigin{10mm}{10mm} % origine des positions
+
+\usepackage{tikz}
+\usetikzlibrary{arrows,shapes,positioning,matrix}
+\usetikzlibrary{calc}
+\usetikzlibrary{patterns}
+\usetikzlibrary{trees,snakes}
+\usetikzlibrary{shadows,decorations.pathmorphing,decorations.markings}
+\usetikzlibrary{fit}
+\tikzstyle{every picture}+=[remember picture]
+\tikzstyle{na} = [baseline=-.5ex]
+
+
+\definecolor{blue}{RGB}{0,102,126}
+\definecolor{darkblue}{RGB}{0,60,74}
+
+\definecolor{orange}{RGB}{228,179,90}
+
+\newcommand\BlueLine[1]{%
+  \textcolor{blue}{\fontsize{14}{19.6}\selectfont\bfseries#1}
+}
+
+
+\date{01/06/2020}
+\title[Introduction to HPC]{}
+\author{SC3260}
+
+
+\logo{\includegraphics[width=.1\textwidth]{logo}}
+
+\usepackage{colortbl}
+
+\usepackage{subfig}
+\mode<presentation>
+{
+  \usetheme{Boadilla}%{Pittsburgh}%
+  %\usecolortheme{seagull}%{default}%{beaver}%dove
+  \usecolortheme[named=darkblue]{structure}
+  \usefonttheme{default}%{serif}%{structuresmallcapsserif}
+  \setbeamertemplate{itemize items}[triangle]
+}
+
+%\usetikzlibrary{shadows}
+%\newcommand{\myboxedtext}[2][rectangle,draw,fill=white,thick, drop shadow=black,rounded corners]{%
+%            \tikz[baseline=-0.6ex] \node [#1,rounded corners]{#2};}%
+\setbeamertemplate{frametitle}
+{
+\begin{flushright}
+%\myboxedtext{\textsc{\insertframetitle}}
+\BlueLine{\textsc{\insertframetitle}}
+\end{flushright}
+}
+
+
+\NewEnviron{elaboration}{
+\par 
+\begin{tikzpicture}
+\node[rectangle,minimum width=0.9\textwidth] (m) {\begin{minipage}{\textwidth}\BODY\end{minipage}};
+\draw[dashed,orange,thick] (m.south west) rectangle (m.north east);
+\end{tikzpicture}
+}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%   MACROS  %%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand<>{\blue}[1]{{\color#2{blue!100!black!100}#1}}
+\newcommand<>{\pink}[1]{{\color#2{CarnationPink}#1}}
+\newcommand<>{\red}[1]{{\color#2{red!80!black}#1}}
+\newcommand<>{\green}[1]{{\color#2{green!70!black}#1}}
+\newcommand<>{\purple}[1]{{\color#2{blue!50!red}#1}}
+
+
+\newcommand{\ema}[1]{\ensuremath{#1}\xspace}
+
+\newcommand{\E}[1][]{\ema{\mathbb{E}[ #1]}}
+\newcommand{\EE}{\ema{\mathbb{E}}}
+%\renewcommand{\P}[1]{\ema{\mathbb{P} ( #1) }}
+\newcommand{\PP}{\ema{\mathbb{P}}}
+
+\newcommand{\toi}[1]{\ema{t^o_{#1}}}
+\newcommand{\talgo}[1]{\ema{t^{\text{algo}}_{#1}}}
+\newcommand{\tbf}[1]{\ema{t^{\text{bf}}_{#1}}}
+\newcommand{\Foi}[1]{\ema{F^o_{#1}}}
+\newcommand{\mean}{\ema{\mu}}
+%\newcommand{\meanExponential}{\ema{\beta}}
+\newcommand{\recursion}{\mathcal{R}}
+\newcommand{\PDF}[1][]{\ema{\mathbb{P}(#1=t)}}
+\newcommand{\PDFu}[1][]{\ema{\mathbb{P'}(#1=t)}}
+\newcommand{\CDFi}[1][]{\ema{F^{-1}#1}}
+\newcommand{\CDFu}[1][]{\ema{F'#1}}
+\newcommand{\CDFui}[1][]{\ema{F'^{-1}#1}}
+\newcommand{\CDF}[1][X]{\ema{F_{#1}}}
+\newcommand{\Beta}{B}
+%{\Foi{i}}'(\toi{i})
+
+\newcommand{\VM}{\ema{\text{VM}}\xspace}
+\newcommand{\VMs}{\ema{\text{VMs}}\xspace}
+
+%\newcommand{\FX}{\CDF}
+%\newcommand{\fX}{\ema{f_{X}}}
+\newcommand{\FXX}{\ema{F}}
+\newcommand{\fXX}{\ema{f}}
+\newcommand{\convFunc}[1]{\ema{G\left(#1\right)}}
+\newcommand{\invConvFunc}[1]{\ema{G^{-1}\left(#1\right)}\xspace}
+\newcommand{\derivConvFunc}[1]{\ema{G'\left(#1\right)}\xspace}
+\newcommand{\seq}{\ema{S}}
+\newcommand{\uniform}{\ema{\textsc{Uniform}}}
+\newcommand{\exponential}{\ema{\textsc{Exp}}}
+\newcommand{\distrib}{\ema{\mathcal{D}}}
+\newcommand{\mind}{\ema{\text{min}_{\distrib}}}
+\newcommand{\maxd}{\ema{\text{max}_{\distrib}}}
+
+
+
+%Problems
+%\newcommand{\cloud}{{\sc Cloud-Reservation}\xspace
+%\newcommand{\expocloud}{{\sc ExpCloudStochastic}\xspace}
+
+%\newcommand\tree[2]{\ifthenelse{\equal{#1}{a}}%
+%                     {$\sqrt{#2}$}{\ifthenelse{\equal{#1}{b}}{Hi}{zzz}}}
+
+\newboolean{long}
+\setboolean{long}{true}
+%Algos
+\newcommand{\bruteForce}{{\sc Brute-Force}\xspace}
+\newcommand{\meanBmean}{{\sc Mean-by-Mean}\xspace}
+\newcommand{\mstdv}{{\sc Mean-Stdev}\xspace}
+\newcommand{\mdbl}{\ifthenelse{\boolean{long}}{{\sc Mean-Doubling}}{{\sc Mean-Doub.}}\xspace}
+\newcommand{\medBmed}{\ifthenelse{\boolean{long}}{{\sc Median-by-Median}}{{\sc Med-by-Med}}\xspace}
+
+\newcommand{\eqP}{{\sc Equal-prob}\xspace}
+\newcommand{\eqT}{{\sc Equal-time}\xspace}
+%\newcommand{\numberthis}{\addtocounter{equation}{1}\tag{\theequation}}
+
+\newtheorem{proposition}{Proposition}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%   END MACROS  %%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\graphicspath{{../figures/},{./figures/}}
+
+
+%\usepackage{mdframed}
+
+\newcommand*{\titleGP}{\begingroup 
+%\centering 
+\vspace{3cm} 
+
+\hspace{2.3cm}
+\BlueLine{SC3260}
+\vspace{0.3cm}
+
+\hspace{2.3cm}
+%\large 
+\bf Introduction to HPC
+\vspace{1cm} 
+
+\hspace{2.3cm}
+{\sc \footnotesize Lecture by: Ana Gainaru}\\~\\
+%{\footnotesize 1. Vanderbilt University; 2. Inria \& Univ Bordeaux;}
+
+\vspace{-6.3cm}\begin{flushright}
+	\includegraphics[width=0.42\textwidth]{vu_background.jpg}
+\end{flushright} 
+
+\endgroup}
+
+% Setting the default font to arial
+\setbeamerfont*{normal text}{family={\fontfamily{phv}}}
+\AtBeginDocument{\usebeamerfont*{normal text}}
+
+% Making the width of the blocks 70% of document
+\addtobeamertemplate{block begin}{%
+  \setlength{\textwidth}{0.7\textwidth}%
+}{}
+
+\addtobeamertemplate{block alerted begin}{%
+  \setlength{\textwidth}{0.7\textwidth}%
+}{}
+
+\addtobeamertemplate{block example begin}{%
+  \setlength{\textwidth}{0.7\textwidth}%
+}{}
+
+\begin{document}
+
+
+\begingroup
+\makeatletter
+%\setlength{\hoffset}{-.5\beamer@sidebarwidth}
+\makeatother
+\begin{frame}[plain]
+	\titleGP
+\end{frame}
+\endgroup
+
+\section{Motivation}
+
+\begin{frame}{Introduction}
+
+\textcolor{blue}{Section}
+
+\begin{itemize}
+\item Statement 1
+	\begin{itemize}
+	\item Sub-statement
+	\end{itemize}
+\end{itemize}
+
+\vspace{0.2in}
+\textcolor{orange}{ \bf Highlight}
+
+\begin{block}{Observation 1}
+Some observation
+\end{block}
+
+\end{frame}
+
+
+
+\end{document}
+\grid
