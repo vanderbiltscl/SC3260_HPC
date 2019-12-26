@@ -22,9 +22,10 @@ Expertise in C/C++
   * [Midterm](#midterm)
   * [Homeworks](#homeworks)
   * [Project](#project)
+  * [Additional Materials](#additional-materials)
 - [Grading](#grading)
-  * [Grade-Breakdown](#grade-breakdown)
-  * [Letter-grades](#letter-grades)
+  * [Grade Breakdown](#grade-breakdown)
+  * [Letter Grades](#letter-grades)
 
 ## Lectures
 
@@ -52,10 +53,20 @@ All assignments are mandatory and part of the final grade. Assignments and homew
 
 ### Project
 
+### Additional Materials
+
+The material in this section is not required for this class. The following books give a good detailed overview to multiple HPC related topics.
+
+ * *"Software Optimization for High Performance Computing: Creating Faster Applications"* by K.R. Wadleigh and I.L. Crawford, Hewlett-Packard professional books, Prentice Hall.<br/>
+ * *"The Software Optimization Cookbook"* (2nd ed.) by R. Gerber, A. Bik, K. Smith, and X. Tian, Intel Press.<br/>
+ * *"Parallel Programming: Techniques and Applications using Networked Workstations and Parallel Computers"* (2nd ed.) by B. Wilkinson and M. Allen, Prentice Hall.<br/>
+ * *"Parallel Scientific Computing in C++ and MPI"* by G. Karniadakis and R. Kirby II, Cambridge University Press.<br/>
+ * *"Scientific Parallel Computing"* by L.R. Scott, T. Clark, and B. Bagheri, Princeton University Press.<br/>
+ * *"Sourcebook of Parallel Programming"* by J. Dongara, I. Foster, G. Fox, W. Gropp, K. Kennedy, L. Torczon, and A. White (eds), Morgan Kaufmann.
 
 ## Grading
 
-### Grade-Breakdown
+### Grade Breakdown
 
 | Percentage grade | Undergraduate credit	| Graduate credit |
 |------------------|----------------------|-----------------|
@@ -64,7 +75,7 @@ All assignments are mandatory and part of the final grade. Assignments and homew
 | Homework	| 30%	| 20% |
 | Research article presentation | n/a | 20% |
 
-### Letter-grades
+### Letter Grades
 
 | A |B|C|D|F|
 |----------|-------------|------------|----------|---------|
