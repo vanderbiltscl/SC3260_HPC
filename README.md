@@ -4,6 +4,20 @@
 ## High Performance Computing 
 Spring 2020
 
+**Instructors**<br/>
+Ana Gainaru ([website](http://www.ana-gainaru.com))<br/>
+Hongyang Sun ([website](https://my.vanderbilt.edu/hongyangsun/))<br/>
+
+**Office**
+Jacobs and Featheringill Hall #382
+
+**Location** Featheringill Hall #134
+
+**Prerequisites**<br/>
+Basic algorithmic techniques (dynamic programming, greedy algorithms)<br/>
+Expertise in C/C++
+
+**Table of contents**
 - [Lectures](#lectures)
   * [Midterm](#midterm)
   * [Homeworks](#homeworks)
@@ -14,7 +28,9 @@ Spring 2020
 
 ## Lectures
 
-| Lectures        | Slides           | Additional  |
+The tentative schedule with PDF lecture notes is shown below (**refresh this page to view the lates changes**). The schedule will be updated when needed and significant changes will be announced in class.
+
+| Lectures        | Slides           | Additional material |
 | --------------- |-----------------:| -----------:|
 | Overview of HPC    | | |
 | Introduction to parallel computing      | | |
@@ -56,6 +72,8 @@ All assignments are mandatory and part of the final grade. Assignments and homew
 | 90-93%	A-|	83-86%	B|  73-76%	C	| 63-66%	D	| |
 | |	80-82%	B- |	70-72%	C- | 60-62%	D-| |
 
+**Honor Code Violations**
+All exams and assignments must be completed individually, unless stated otherwise. Copying solutions is considered cheating. Submitted source code listings will be compared. Keep a copy of the listings to provide evidence of creative work. Students are expected to uphold the Honor Code. Any student involved in cheating is in violation of the Honor code. Consult the "Student Handbook" for more details on the Honor code.
 
 
 
