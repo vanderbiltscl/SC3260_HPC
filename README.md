@@ -31,19 +31,19 @@ Expertise in C/C++
 
 The tentative schedule with PDF lecture notes is shown below (**refresh this page to view the lates changes**). The schedule will be updated when needed and significant changes will be announced in class.
 
-| Lectures        | Slides           | Additional material |
-| --------------- |-----------------:| -----------:|
-| Overview of HPC    | | |
-| Introduction to parallel computing      | | |
-| Introduction to C++ | | |
-| Performance analysis | | |
-| Shared memory | | |
-| GPU | | |
-| Interconect | | |
-| Communication patterns | | |
-| Distributied memory | | |
-| Scheduling | | |
-| Fault tolerance | | |
+| Lectures        | Date | Slides           | Additional material |
+| --------------- |------|-----------------:| -----------:|
+| Overview of HPC    | January 6th and 8th | [HPC.pdf](lectures/1_hpc.pdf) |  |
+| Introduction to parallel computing     |  | | |
+| Introduction to C++ | | | |
+| Performance analysis | | | |
+| Shared memory | | | |
+| GPU | | | |
+| Interconect | | | |
+| Communication patterns | | | |
+| Distributied memory | | | |
+| Scheduling | | | |
+| Fault tolerance | | | |
 
 ### Midterm
 March 11th, 2020
@@ -56,10 +56,10 @@ There will be 3 homeworks (equal weight in the final grade):
    * Link to homework 1: [HW1](homeworks/hw1.pdf)
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
-   * Link to homework 2: [HW1](homeworks/hw2.pdf)
+   * Link to homework 2: [HW2](homeworks/hw2.pdf)
    * Deadline: *March 13th*
 * Distributed memory (MPI programming)
-   * Link to homework 3: [HW1](homeworks/hw3.pdf)
+   * Link to homework 3: [HW3](homeworks/hw3.pdf)
    * Deadline: *March 27th*
 
 ### Project
