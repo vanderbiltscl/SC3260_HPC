@@ -51,6 +51,17 @@ March 11th, 2020
 ### Homeworks
 All assignments are mandatory and part of the final grade. Assignments and homework should be turned in before or at the due date before midnight. When turned in late, 5% will be deducted from the project grade per day until the submission has been received, with a maximum extension of five days.
 
+There will be 3 homeworks (equal weight in the final grade): 
+* Using an HPC system (bash scripting and Slurm)
+   * Link to homework 1: [HW1](homeworks/hw1.pdf)
+   * Deadline: *February 14th*
+* Shared memory (GPU programming) 
+   * Link to homework 2: [HW1](homeworks/hw2.pdf)
+   * Deadline: *March 13th*
+* Distributed memory (MPI programming)
+   * Link to homework 3: [HW1](homeworks/hw3.pdf)
+   * Deadline: *March 27th*
+
 ### Project
 
 ### Additional Materials
@@ -68,11 +79,14 @@ The material in this section is not required for this class. The following books
 
 ### Grade Breakdown
 
+**Honor Code Violations**
+All exams and assignments must be completed individually, unless stated otherwise. Copying solutions is considered cheating. Submitted source code listings will be compared. Keep a copy of the listings to provide evidence of creative work. Students are expected to uphold the Honor Code. Any student involved in cheating is in violation of the Honor code. Consult the "Student Handbook" for more details on the Honor code.
+
 | Percentage grade | Undergraduate credit	| Graduate credit |
 |------------------|----------------------|-----------------|
-| Midterm exam | 30% | 20% |
+| Midterm exam | 30% | 25% |
 | Team Projects	| 40%	| 40% |
-| Homework	| 30%	| 20% |
+| Homework	| 30%	| 15% |
 | Research article presentation | n/a | 20% |
 
 ### Letter Grades
@@ -82,9 +96,4 @@ The material in this section is not required for this class. The following books
 | 94-100%	A	| 87-89%	B+ |	77-79%	C+|	67-69%	D+|	0-59%	F |
 | 90-93%	A-|	83-86%	B|  73-76%	C	| 63-66%	D	| |
 | |	80-82%	B- |	70-72%	C- | 60-62%	D-| |
-
-**Honor Code Violations**
-All exams and assignments must be completed individually, unless stated otherwise. Copying solutions is considered cheating. Submitted source code listings will be compared. Keep a copy of the listings to provide evidence of creative work. Students are expected to uphold the Honor Code. Any student involved in cheating is in violation of the Honor code. Consult the "Student Handbook" for more details on the Honor code.
-
-
 
