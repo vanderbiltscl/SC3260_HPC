@@ -52,7 +52,7 @@ March 11th, 2020
 All assignments are mandatory and part of the final grade. Assignments and homework should be turned in before or at the due date before midnight. When turned in late, 5% will be deducted from the project grade per day until the submission has been received, with a maximum extension of five days.
 
 There will be 3 homeworks (equal weight in the final grade): 
-* Using an HPC system (bash scripting and Slurm)
+* Shared memory (Silk)
    * Link to homework 1: [HW1](homeworks/hw1.pdf)
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
