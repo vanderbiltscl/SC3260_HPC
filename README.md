@@ -53,13 +53,13 @@ All assignments are mandatory and part of the final grade. Assignments and homew
 
 There will be 3 homeworks (equal weight in the final grade): 
 * Shared memory (Silk)
-   * Link to homework 1: [HW1](homeworks/hw1.pdf)
+   * Link to homework 1: Not available yet 
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
-   * Link to homework 2: [HW2](homeworks/hw2.pdf)
+   * Link to homework 2: Not available yet
    * Deadline: *March 13th*
 * Distributed memory (MPI programming)
-   * Link to homework 3: [HW3](homeworks/hw3.pdf)
+   * Link to homework 3: Not available yet
    * Deadline: *March 27th*
 
 ### Project
