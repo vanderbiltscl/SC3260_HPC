@@ -74,6 +74,11 @@ The material in this section is not required for this class. The following books
  * *"Parallel Scientific Computing in C++ and MPI"* by G. Karniadakis and R. Kirby II, Cambridge University Press.<br/>
  * *"Scientific Parallel Computing"* by L.R. Scott, T. Clark, and B. Bagheri, Princeton University Press.<br/>
  * *"Sourcebook of Parallel Programming"* by J. Dongara, I. Foster, G. Fox, W. Gropp, K. Kennedy, L. Torczon, and A. White (eds), Morgan Kaufmann.
+ * *"Designing and Building Parallel Programs: Concepts and Tools for Parallel Software Engineering"* by I. Foster, Addison-Wesley Longman Publishing Co., Inc. <br/>
+ * *"Introduction to Parallel Computing (2nd ed.)"* by A. Grama, A. Gupta, G. Karypis, V. Kumar. Addison-Wesley Professional <br/> 
+ * *"Introduction to Algorithms (3rd ed.)"* by T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein. MIT Press and McGraw-Hill" <br/> 
+ * *"Parallel Algorithms"* by H. Casanova, A. Legrand, Y. Robert. Chapman & Hall/CRC. 
+
 
 ## Grading
 
