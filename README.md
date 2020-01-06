@@ -15,7 +15,7 @@ Jacobs and Featheringill Hall #382
 
 **Prerequisites**<br/>
 Basic algorithmic techniques (dynamic programming, greedy algorithms)<br/>
-Expertise in C/C++
+Knowledge in C/C++
 
 **Table of contents**
 - [Lectures](#lectures)
