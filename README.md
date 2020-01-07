@@ -11,11 +11,11 @@ Hongyang Sun ([website](https://my.vanderbilt.edu/hongyangsun/))<br/>
 **Office**
 Jacobs and Featheringill Hall #382
 
-**Location** Featheringill Hall #134
+**Lectures** Featheringill Hall #134
 
 **Prerequisites**<br/>
 Basic algorithmic techniques (dynamic programming, greedy algorithms)<br/>
-Knowledge in C/C++
+Basic knowledge in C/C++
 
 **Table of contents**
 - [Lectures](#lectures)
