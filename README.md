@@ -14,7 +14,7 @@ Jacobs and Featheringill Hall #382
 **Lectures** Featheringill Hall #134
 
 **Prerequisites**<br/>
-Basic algorithmic techniques (dynamic programming, greedy algorithms)<br/>
+Basic scentific computing knowledge (e.g., matrix computations, sorting algorithms)<br/>
 Basic knowledge in C/C++
 
 **Table of contents**
@@ -37,11 +37,11 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Introduction to parallel computing     |  | | |
 | Introduction to C++ | | | |
 | Performance analysis | | | |
-| Shared memory | | | |
+| Shared memory algorithms | | | |
 | GPU | | | |
-| Interconect | | | |
-| Communication patterns | | | |
-| Distributied memory | | | |
+| Interconect and communication | | | |
+| Using ACCRE resources | | | |
+| Distributied memory algorithms | | | |
 | Scheduling | | | |
 | Fault tolerance | | | |
 
