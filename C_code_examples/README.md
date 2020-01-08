@@ -1,6 +1,7 @@
 C Programming Examples
 ======================
 
+Examples from: https://github.com/accre/Cprogramming
 
 Building executables
 --------------------
