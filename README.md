@@ -33,7 +33,8 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 
 | Lectures        | Date | Slides           | Additional material |
 | --------------- |------|-----------------:| -----------:|
-| Overview of HPC    | January 6th and 8th | [HPC.pdf](lectures/1_hpc.pdf) |  |
+| Uniprocessors    | January 6th | [Uniprocs.pdf](lectures/1_uniprocs.pdf) |  |
+| Overview of HPC    | January 8th | [HPC.pdf](lectures/1_hpc.pdf) |  |
 | Introduction to parallel computing     |  | | |
 | Introduction to C++ | | | |
 | Performance analysis | | | |
