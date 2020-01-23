@@ -37,9 +37,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Overview of HPC    | 01/08 | [HPC.pdf](lectures/1_hpc.pdf) |  |
 | Introduction to parallel computing I     | 01/13 | [Parallel(I).pdf](lectures/Intro_to_parallel_computing(I).pdf) | |
 | Introduction to parallel computing II     | 01/15 | [Parallel(II).pdf](lectures/Intro_to_parallel_computing(II).pdf) | |
-| Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | C extensions for Python: https://cython.org/ |
-|  | | | Code examples and documentation in the `C_code_examples` folder |
-|  | | | Instructions on running the code: Comming soon |
+| Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code_examples` folder <br/> - Instructions on running the code: Comming soon |
 | Performance analysis | | | |
 | Shared-memory algorithms | | | |
 | GPU | | | |
