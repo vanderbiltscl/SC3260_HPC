@@ -55,7 +55,7 @@ All assignments are mandatory and part of the final grade. Assignments and homew
 
 There will be 3 homeworks (equal weight in the final grade): 
 * Shared memory (Cilk programming)
-   * Link to homework 1: Get it on Brightspace
+   * Link to homework 1: available on Brightspace
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
    * Link to homework 2: Not available yet
