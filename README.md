@@ -39,7 +39,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Introduction to parallel computing II     | 01/15 | [Parallel(II).pdf](lectures/Intro_to_parallel_computing(II).pdf) | |
 | Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code_examples` folder |
 | Submitting jobs on a cluster | 01/27 | [SLURM.pdf](lectures/2_sbatch.pdf) | ACCRE Tutorials: [Link](https://www.vanderbilt.edu/accre/getting-started/training/) |
-| Shared-memory algorithms | 01/29 -- 02/10 | [Shared.pdf](lectures/Shared.pdf) | - Cilk code examples in the `Cilk_code` folder |
+| Shared-memory algorithms | 01/29 -- 02/10 | [Shared.pdf](lectures/Shared.pdf) | - Cilk code examples in the `Cilk_code` folder <br/> - Cilk installation guide on Brightspace with Homework 1 |
 | GPU | | | |
 | Interconect and communication | | | |
 | Using ACCRE resources | | | |
@@ -55,7 +55,7 @@ All assignments are mandatory and part of the final grade. Assignments and homew
 
 There will be 3 homeworks (equal weight in the final grade): 
 * Shared memory (Cilk programming)
-   * Link to homework 1: Not available yet 
+   * Link to homework 1: Get it on Brightspace
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
    * Link to homework 2: Not available yet
