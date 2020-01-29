@@ -39,7 +39,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Introduction to parallel computing II     | 01/15 | [Parallel(II).pdf](lectures/Intro_to_parallel_computing(II).pdf) | |
 | Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code_examples` folder |
 | Submitting jobs on a cluster | 01/27 | [SLURM.pdf](lectures/2_sbatch.pdf) | ACCRE Tutorials: [Link](https://www.vanderbilt.edu/accre/getting-started/training/) |
-| Shared-memory algorithms | 01/29 -- 02/10 | | |
+| Shared-memory algorithms | 01/29 -- 02/10 | [shared.pdf](lectures/shared.pdf) | - Cilk code examples in the `Cilk_code` folder |
 | GPU | | | |
 | Interconect and communication | | | |
 | Using ACCRE resources | | | |
