@@ -40,7 +40,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code_examples` folder |
 | Submitting jobs on a cluster | 01/27 | [SLURM.pdf](lectures/2_sbatch.pdf) | ACCRE Tutorials: [Link](https://www.vanderbilt.edu/accre/getting-started/training/) |
 | Shared-memory algorithms | 01/29 -- 02/10 | [Shared.pdf](lectures/Shared.pdf) | - Cilk code examples in the `Cilk_code` folder <br/> - Cilk installation guide on Brightspace with Homework 1 |
-| GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | |
+| GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | Nvidia‘s CUDA parallel computation API from Python: [Link](https://mathema.tician.de/software/pycuda/) |
 | Interconect and communication | | | |
 | Using ACCRE resources | | | |
 | Distributied-memory algorithms | | | |
