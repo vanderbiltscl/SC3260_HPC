@@ -76,7 +76,7 @@ Grad students need to choose a paper related to parallel/distributed programming
 
 2) A.Y. Grama, A. Gupta, and V. Kumar. "Isoefficiency: Measuring the Scalability of Parallel Algorithms and Architectures," Parallel & Distributed Technology: Systems & Applications, IEEE, see also IEEE Concurrency, Volume 1, Issue 3, Aug. 1993, pp. 12-21.
 
-3) M.S. Warren and J.K. Salmon. "A Parallel Hashed Oct-Tree N-body Algorithm," Proceedings of the 1993 ACM/IEEE conference on Supercomputing, pp. 12-21.
+3)  S. Srinivasan, R. Kettimuthu, V. Subramani and P. Sadayappan, "Characterization of backfilling strategies for parallel job scheduling", Proceedings. International Conference on Parallel Processing Workshop, 2002
 
 4) W. Daniel Hillis and Guy L. Steele. "Data Parallel Algorithms," Communications of the ACM, December 1986, pp. 1170-1183.
 
@@ -87,6 +87,8 @@ Grad students need to choose a paper related to parallel/distributed programming
 7) R. C. Agarwal, S. M. Balle, F. G. Gustavson, M. Joshi, and P. Palkar. "A Three-dimensional Approach to Parallel Matrix Multiplication," IBM Journal of Research and Development, Volume 39, Number 5, 1995.
 
 8) Fabrizio Petrini, Darren J. Kerbyson, Scott Pakin. "The Case of the Missing Supercomputer Performance: Achieving Optimal Performance on the 8,192 Processors of ASCI Q," Conference on High Performance Networking and Computing, Proceedings of the 2003 ACM/IEEE Conference on Supercomputing, 2003.
+
+9) J.T.Daly, "A higher order estimate of the optimum checkpoint interval for restart dumps", Future Generation Computer Systems, Volume 22, Issue 3, Pages 303-312, February 2006
 
 ### Additional Materials
 
