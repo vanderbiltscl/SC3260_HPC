@@ -66,11 +66,23 @@ There will be 3 homeworks (equal weight in the final grade):
    * Deadline: *March 27th*
 
 ### Project
+The project consists of parallelizing an algorithm (with either of the methods presented) and analyzing the scalability and bottlenecks of the parallel code. The algorithm can be something from your field of study, a benchmark or one of the algorithms studied in class (e.g. Sort, Marix Matrix multiplication). If a simple algorithm is chosen, it will have to be parallelized with multiple methods and the results will have to be compared with each other and explained. All chosen algorithms must be approved.
+
+**Groups** <br/>
+This is a group project (2 or 3 students per team).
+
+**Deadline** <br/>
+Algorithm choice must be sent for approval by March 9th with the complete list of team members.<br/>
+Submission of the projects must be done before April 12th. 
+
+**Presentations** <br/>
+Presentations will be held on April 13th, 15th, 20th <br/>
+Order of presentations will be decided by the instructors by the middle of March.
 
 ### Presentations
 #### Only for grad students
 
-Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval**):
+Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval**). Feel free to chose one of these or something related to HPC from your field of study.
 
 1) Milind Kulkarni, Martin Burtscher, Rajasekhar Inkulu, Keshav Pingali and Calin Cascaval. "How Much Parallelism is There in Irregular Applications?" Principles and Practices of Parallel Programming (PPoPP), February, 2009.
 
