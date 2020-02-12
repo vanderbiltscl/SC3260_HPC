@@ -66,14 +66,15 @@ There will be 3 homeworks (equal weight in the final grade):
    * Deadline: *March 27th*
 
 ### Project
-The project consists of parallelizing an algorithm (with either of the methods presented) and analyzing the scalability and bottlenecks of the parallel code. The algorithm can be something from your field of study, a benchmark or one of the algorithms studied in class (e.g. Sort, Marix Matrix multiplication). If a simple algorithm is chosen, it will have to be parallelized with multiple methods and the results will have to be compared with each other and explained. All chosen algorithms must be approved.
+The project consists of parallelizing an algorithm (in any programming language) and analyzing the scalability and bottlenecks of the parallel code. The algorithm can be something from your field of study, a benchmark or one of the algorithms studied in class (e.g. Sort, Marix Matrix multiplication). If a simple algorithm is chosen, it will have to be parallelized with multiple methods (e.g. shared memory cpu vs gpu or shared vs distributed cpu) and the results will have to be compared with each other and explained. All chosen algorithms must be approved.
 
 **Groups** <br/>
 This is a group project (2 or 3 students per team).
 
 **Deadline** <br/>
 Algorithm choice must be sent for approval by March 9th with the complete list of team members.<br/>
-Submission of the projects must be done before April 12th. 
+Submission of the projects must be done before April 12th. <br/>
+Each group will have to submit the codes and a small document describing the algorithm and code analysis.
 
 **Presentations** <br/>
 Presentations will be held on April 13th, 15th, 20th <br/>
