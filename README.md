@@ -22,6 +22,7 @@ Basic knowledge in C/C++
   * [Midterm](#midterm)
   * [Homeworks](#homeworks)
   * [Project](#project)
+  * [Presentations](#presentations)
   * [Additional Materials](#additional-materials)
 - [Grading](#grading)
   * [Grade Breakdown](#grade-breakdown)
@@ -65,6 +66,27 @@ There will be 3 homeworks (equal weight in the final grade):
    * Deadline: *March 27th*
 
 ### Project
+
+### Presentations
+#### Only for grad students
+
+Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval**):
+
+1) Milind Kulkarni, Martin Burtscher, Rajasekhar Inkulu, Keshav Pingali and Calin Cascaval. "How Much Parallelism is There in Irregular Applications?" Principles and Practices of Parallel Programming (PPoPP), February, 2009.
+
+2) A.Y. Grama, A. Gupta, and V. Kumar. "Isoefficiency: Measuring the Scalability of Parallel Algorithms and Architectures," Parallel & Distributed Technology: Systems & Applications, IEEE, see also IEEE Concurrency, Volume 1, Issue 3, Aug. 1993, pp. 12-21.
+
+3) M.S. Warren and J.K. Salmon. "A Parallel Hashed Oct-Tree N-body Algorithm," Proceedings of the 1993 ACM/IEEE conference on Supercomputing, pp. 12-21.
+
+4) W. Daniel Hillis and Guy L. Steele. "Data Parallel Algorithms," Communications of the ACM, December 1986, pp. 1170-1183.
+
+5) David E. Culler, Richard M. Karp, David Patterson, Abhijit Sahay, Eunice E. Santos, Klaus Erik Schauser, Ramesh Subramonian, Thorsten von Eicken. "LogP: A Practical Model of Parallel Computation," Communications of the ACM, Volume 39, Issue 11, November 1996, pp. 78 - 85.
+
+6) V. Nageshwara Rao and Vipin Kumar. "Superlinear Speedup in Parallel State-Space Search," Lecture Notes In Computer Science, Vol. 338, Proceedings of the Eighth Conference on Foundations of Software Technology and Theoretical Computer Science, pp. 161-174, 1988.
+
+7) R. C. Agarwal, S. M. Balle, F. G. Gustavson, M. Joshi, and P. Palkar. "A Three-dimensional Approach to Parallel Matrix Multiplication," IBM Journal of Research and Development, Volume 39, Number 5, 1995.
+
+8) Fabrizio Petrini, Darren J. Kerbyson, Scott Pakin. "The Case of the Missing Supercomputer Performance: Achieving Optimal Performance on the 8,192 Processors of ASCI Q," Conference on High Performance Networking and Computing, Proceedings of the 2003 ACM/IEEE Conference on Supercomputing, 2003.
 
 ### Additional Materials
 
