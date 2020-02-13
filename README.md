@@ -80,7 +80,7 @@ Submission of the projects must be done before April 12th. <br/>
 Each group will have to submit the codes and a small document describing the algorithm and code analysis.
 
 **Presentations** <br/>
-Presentations will be held on April 13th, 15th, 20th <br/>
+Presentations will be held on the last weel of class <br/>
 Order of presentations will be decided by the instructors by the middle of March.
 
 ## Research paper presentations 
@@ -106,6 +106,8 @@ Grad students need to choose a paper related to parallel/distributed programming
 8) Fabrizio Petrini, Darren J. Kerbyson, Scott Pakin. "The Case of the Missing Supercomputer Performance: Achieving Optimal Performance on the 8,192 Processors of ASCI Q," Conference on High Performance Networking and Computing, Proceedings of the 2003 ACM/IEEE Conference on Supercomputing, 2003.
 
 9) J.T.Daly, "A higher order estimate of the optimum checkpoint interval for restart dumps", Future Generation Computer Systems, Volume 22, Issue 3, Pages 303-312, February 2006
+
+(*) Date and order of presentations will be decided by the instructors together with each student.
 
 ## Additional Materials
 
