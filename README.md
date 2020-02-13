@@ -66,6 +66,8 @@ There will be 3 homeworks (equal weight in the final grade):
    * Link to homework 3: Not available yet
    * Deadline: *March 27th*
 
+## Group Project
+
 ### Project
 The project consists of parallelizing an algorithm (in any programming language) and analyzing the scalability and bottlenecks of the parallel code. The algorithm can be something from your field of study, a benchmark or one of the algorithms studied in class (e.g. Sort, Marix Matrix multiplication). If a simple algorithm is chosen, it will have to be parallelized with multiple methods (e.g. shared memory cpu vs gpu or shared vs distributed cpu) and the results will have to be compared with each other and explained. All chosen algorithms must be approved.
 
@@ -81,6 +83,7 @@ Each group will have to submit the codes and a small document describing the alg
 Presentations will be held on April 13th, 15th, 20th <br/>
 Order of presentations will be decided by the instructors by the middle of March.
 
+## Research paper presentations 
 ### Presentations
 #### Only for grad students
 
@@ -104,7 +107,7 @@ Grad students need to choose a paper related to parallel/distributed programming
 
 9) J.T.Daly, "A higher order estimate of the optimum checkpoint interval for restart dumps", Future Generation Computer Systems, Volume 22, Issue 3, Pages 303-312, February 2006
 
-### Additional Materials
+## Additional Materials
 
 The material in this section is not required for this class. The following books give a good detailed overview to multiple HPC related topics.
 
