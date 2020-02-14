@@ -69,18 +69,18 @@ There will be 3 homeworks (equal weight in the final grade):
 ## Group Project
 
 ### Project
-The project consists of parallelizing an algorithm (in any programming language) and analyzing the scalability and bottlenecks of the parallel code. The algorithm can be something from your field of study, a benchmark or one of the algorithms studied in class (e.g. Sort, Marix Matrix multiplication). If a simple algorithm is chosen, it will have to be parallelized with multiple methods (e.g. shared memory cpu vs gpu or shared vs distributed cpu) and the results will have to be compared with each other and explained. All chosen algorithms must be approved.
+The project consists of parallelizing an algorithm (in any programming language) to solve a specific problem and analyzing the scalability and bottlenecks of the parallel code. The problem to be solved can be something from your field of study, a benchmark or one discussed in class (e.g. Sort, Marix Multiplication). If a simple problem is chosen, it will have to be implemented with multiple methods (e.g. different algorithms in shared memory CPU vs GPU, or shared vs distributed CPU) and the results will have to be compared with each other and explained. All chosen problems and algorithms must be approved.
 
 **Groups** <br/>
 This is a group project (2 or 3 students per team).
 
 **Deadline** <br/>
-Algorithm choice must be sent for approval by March 9th with the complete list of team members.<br/>
+Problem and algorithm choice must be sent for approval by March 9th with the complete list of team members.<br/>
 Submission of the projects must be done before April 12th. <br/>
-Each group will have to submit the codes and a small document describing the algorithm and code analysis.
+Each group will have to submit the codes and a small report describing the algorithm and code analysis.
 
 **Presentations** <br/>
-Presentations will be held on the last weel of class <br/>
+Presentations will be held on the last week of the class <br/>
 Order of presentations will be decided by the instructors by the middle of March.
 
 ## Research paper presentations 
