@@ -43,7 +43,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Shared-memory algorithms | 01/29 -- 02/10 | [Shared.pdf](lectures/Shared.pdf) | - Cilk code examples in the `Cilk_code` folder <br/> - Cilk installation guide on Brightspace with Homework 1 |
 | GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | Nvidia‘s CUDA parallel computation API from Python: [Link](https://mathema.tician.de/software/pycuda/) |
 | GPU Performance | 02/17 | [GPU_perf.pdf](lectures/3_perf.pdf) | CUDA code examples in the `CUDA_code` folder. <br/> Short tutorial on how to run GPU programs on ACCRE can be found here: [ACCRE_guide.pdf](documentation/accre_gpu_guide.pdf)  |
-| Interconect and communication | | | |
+| Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
 | Using ACCRE resources | | | |
 | Distributied-memory algorithms | | | |
 | Scheduling | | | |
