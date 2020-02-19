@@ -45,6 +45,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | GPU Performance | 02/17 | [GPU_perf.pdf](lectures/3_perf.pdf) | CUDA code examples in the `CUDA_code` folder. <br/> Short tutorial on how to run GPU programs on ACCRE can be found here: [ACCRE_guide.pdf](documentation/accre_gpu_guide.pdf)  |
 | Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
 | Using ACCRE resources | | | |
+| MPI | | | |
 | Distributied-memory algorithms | | | |
 | Scheduling | | | |
 | Fault tolerance | | | |
@@ -60,8 +61,8 @@ There will be 3 homeworks (equal weight in the final grade):
    * Link to homework 1: available on Brightspace
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
-   * Link to homework 2: Not available yet
-   * Deadline: *March 13th*
+   * Link to homework 2: available on Brightspace
+   * Deadline: *March 16th*
 * Distributed memory (MPI programming)
    * Link to homework 3: Not available yet
    * Deadline: *March 27th*
