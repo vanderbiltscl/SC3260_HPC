@@ -51,11 +51,11 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Fault tolerance | | | |
 
 ### Midterm
-The midterm material includes everything up to the first MPI lecture (all the lectures including the one on 02/19). The topics include:
+The midterm material includes everything before the first MPI lecture (all the lectures including the one on 02/19). The topics include:
 - Paradigms of parallel computing: data parallel, task parallel, pipelining, speed-ups
 - Parallel architecture concepts: SIMD, vector machines, array processors, MIMD, uniform shared memory, nonuniform shared memory, distributed memory, distributed shared memory
 - SPMD versus MIMD style programming
-- Shared memory algorithms
+- Shared memory algorithms and performance models
 - Concepts of GPU programming and differences between GPU and CPU
 - Interconnection networks
 The midterm is in written format, will include 6 questions and will last for one hour. 
