@@ -58,6 +58,7 @@ The midterm material includes everything before the first MPI lecture (all the l
 - Shared memory algorithms and performance models
 - Concepts of GPU programming and differences between GPU and CPU
 - Interconnection networks
+
 The midterm is in written format, will include 6 questions and will last for one hour. 
 
 Midterm date: March 11th, 2020
