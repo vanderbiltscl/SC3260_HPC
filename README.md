@@ -86,7 +86,7 @@ The project consists of parallelizing an algorithm (in any programming language)
 This is a group project (2 or 3 students per team).
 
 **Deadline** <br/>
-Problem and algorithm choice must be sent for approval by March 9th with the complete list of team members.<br/>
+Problem and algorithm choice must be sent for approval by **March 16th** with the complete list of team members.<br/>
 Submission of the projects must be done before April 12th. <br/>
 Each group will have to submit the codes and a small report describing the algorithm and code analysis.
 
@@ -98,7 +98,7 @@ Order of presentations will be decided by the instructors by the middle of March
 ### Presentations
 #### Only for grad students
 
-Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval**). Feel free to chose one of these or something related to HPC from your field of study.
+Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval before March 25th**). Feel free to chose one of these or something related to HPC from your field of study.
 
 1) Milind Kulkarni, Martin Burtscher, Rajasekhar Inkulu, Keshav Pingali and Calin Cascaval. "How Much Parallelism is There in Irregular Applications?" Principles and Practices of Parallel Programming (PPoPP), February, 2009.
 
