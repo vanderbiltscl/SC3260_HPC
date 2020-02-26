@@ -44,8 +44,8 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | Nvidia‘s CUDA parallel computation API from Python: [Link](https://mathema.tician.de/software/pycuda/) |
 | GPU Performance | 02/17 | [GPU_perf.pdf](lectures/3_perf.pdf) | CUDA code examples in the `CUDA_code` folder. <br/> Short tutorial on how to run GPU programs on ACCRE can be found here: [ACCRE_guide.pdf](documentation/accre_gpu_guide.pdf)  |
 | Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
+| MPI | 02/26 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
 | Using ACCRE resources | | | |
-| MPI | | | |
 | Distributied-memory algorithms | | | |
 | Scheduling | | | |
 | Fault tolerance | | | |
