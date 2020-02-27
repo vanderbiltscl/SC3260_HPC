@@ -38,7 +38,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Overview of HPC    | 01/08 | [HPC.pdf](lectures/1_hpc.pdf) |  |
 | Introduction to parallel computing I     | 01/13 | [Parallel(I).pdf](lectures/Intro_to_parallel_computing(I).pdf) | |
 | Introduction to parallel computing II     | 01/15 | [Parallel(II).pdf](lectures/Intro_to_parallel_computing(II).pdf) | |
-| Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code` folder |
+| Introduction to C | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code` folder |
 | Submitting jobs on a cluster | 01/27 | [SLURM.pdf](lectures/2_sbatch.pdf) | ACCRE Tutorials: [Link](https://www.vanderbilt.edu/accre/getting-started/training/) |
 | Shared-memory algorithms | 01/29 -- 02/10 | [Shared.pdf](lectures/Shared.pdf) | - Cilk code examples in the `Cilk_code` folder <br/> - Cilk installation guide on Brightspace with Homework 1 |
 | GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | Nvidia‘s CUDA parallel computation API from Python: [Link](https://mathema.tician.de/software/pycuda/) |
@@ -46,7 +46,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
 | MPI | 02/26 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
 | Using ACCRE resources | | | |
-| Distributied-memory algorithms | | | |
+| Distributied-memory algorithms | | | |If that is true then I don't understand why we do
 | Scheduling | | | |
 | Fault tolerance | | | |
 
@@ -59,9 +59,11 @@ The midterm material includes everything before the first MPI lecture (all the l
 - Concepts of GPU programming and differences between GPU and CPU
 - Interconnection networks
 
+> The crash course on C is NOT included in the midterm topics
+
 The midterm is in written format, will include 6 questions and will last for one hour. 
 
-Midterm date: March 11th, 2020
+Midterm date: **March 11th, 2020**
 
 
 ### Homeworks
