@@ -61,7 +61,7 @@ The midterm material includes everything before the first MPI lecture (all the l
 
 > The crash course on C is NOT included in the midterm topics
 
-The midterm is in written format, will include 6 questions and will last for one hour. 
+The midterm is in written format, will include 6 questions and will last for one hour. The midterm is open notes.
 
 Midterm date: **March 11th, 2020**
 
