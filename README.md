@@ -78,7 +78,7 @@ There will be 3 homeworks (equal weight in the final grade):
    * Deadline: *March 16th*
 * Distributed memory (MPI programming)
    * Link to homework 3: Not available yet
-   * Deadline: *March 27th*
+   * Deadline: *April 1st*
 
 ## Group Project
 
