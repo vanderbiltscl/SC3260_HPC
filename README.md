@@ -38,19 +38,33 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Overview of HPC    | 01/08 | [HPC.pdf](lectures/1_hpc.pdf) |  |
 | Introduction to parallel computing I     | 01/13 | [Parallel(I).pdf](lectures/Intro_to_parallel_computing(I).pdf) | |
 | Introduction to parallel computing II     | 01/15 | [Parallel(II).pdf](lectures/Intro_to_parallel_computing(II).pdf) | |
-| Introduction to C++ | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code` folder |
+| Introduction to C | 01/22 | [IntroC.pdf](lectures/2_cpp.pdf) | - C extensions for Python: https://cython.org/ <br/> - Code examples and documentation in the `C_code` folder |
 | Submitting jobs on a cluster | 01/27 | [SLURM.pdf](lectures/2_sbatch.pdf) | ACCRE Tutorials: [Link](https://www.vanderbilt.edu/accre/getting-started/training/) |
 | Shared-memory algorithms | 01/29 -- 02/10 | [Shared.pdf](lectures/Shared.pdf) | - Cilk code examples in the `Cilk_code` folder <br/> - Cilk installation guide on Brightspace with Homework 1 |
 | GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | Nvidia‘s CUDA parallel computation API from Python: [Link](https://mathema.tician.de/software/pycuda/) |
 | GPU Performance | 02/17 | [GPU_perf.pdf](lectures/3_perf.pdf) | CUDA code examples in the `CUDA_code` folder. <br/> Short tutorial on how to run GPU programs on ACCRE can be found here: [ACCRE_guide.pdf](documentation/accre_gpu_guide.pdf)  |
-| Interconect and communication | | | |
+| Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
+| MPI | 02/26 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
 | Using ACCRE resources | | | |
-| Distributied-memory algorithms | | | |
+| Distributied-memory algorithms | | | |If that is true then I don't understand why we do
 | Scheduling | | | |
 | Fault tolerance | | | |
 
 ### Midterm
-March 11th, 2020
+The midterm material includes everything before the first MPI lecture (all the lectures including the one on 02/19). The topics include:
+- Paradigms of parallel computing: data parallel, task parallel, pipelining, speed-ups
+- Parallel architecture concepts: SIMD, vector machines, array processors, MIMD, uniform shared memory, nonuniform shared memory, distributed memory, distributed shared memory
+- SPMD versus MIMD style programming
+- Shared memory algorithms and performance models
+- Concepts of GPU programming and differences between GPU and CPU
+- Interconnection networks
+
+> The crash course on C is NOT included in the midterm topics
+
+The midterm is in written format, will include 6 questions and will last for one hour. The midterm is open notes.
+
+Midterm date: **March 11th, 2020**
+
 
 ### Homeworks
 All assignments are mandatory and part of the final grade. Assignments and homework should be turned in before or at the due date before midnight. When turned in late, 5% will be deducted from the project grade per day until the submission has been received, with a maximum extension of five days.
@@ -60,11 +74,11 @@ There will be 3 homeworks (equal weight in the final grade):
    * Link to homework 1: available on Brightspace
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
-   * Link to homework 2: Not available yet
-   * Deadline: *March 13th*
+   * Link to homework 2: available on Brightspace
+   * Deadline: *March 16th*
 * Distributed memory (MPI programming)
    * Link to homework 3: Not available yet
-   * Deadline: *March 27th*
+   * Deadline: *April 1st*
 
 ## Group Project
 
@@ -75,7 +89,7 @@ The project consists of parallelizing an algorithm (in any programming language)
 This is a group project (2 or 3 students per team).
 
 **Deadline** <br/>
-Problem and algorithm choice must be sent for approval by March 9th with the complete list of team members.<br/>
+Problem and algorithm choice must be sent for approval by **March 16th** with the complete list of team members.<br/>
 Submission of the projects must be done before April 12th. <br/>
 Each group will have to submit the codes and a small report describing the algorithm and code analysis.
 
@@ -87,7 +101,7 @@ Order of presentations will be decided by the instructors by the middle of March
 ### Presentations
 #### Only for grad students
 
-Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval**). Feel free to chose one of these or something related to HPC from your field of study.
+Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval before March 25th**). Feel free to chose one of these or something related to HPC from your field of study.
 
 1) Milind Kulkarni, Martin Burtscher, Rajasekhar Inkulu, Keshav Pingali and Calin Cascaval. "How Much Parallelism is There in Irregular Applications?" Principles and Practices of Parallel Programming (PPoPP), February, 2009.
 
