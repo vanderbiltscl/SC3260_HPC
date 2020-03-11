@@ -44,9 +44,11 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | GPU | 02/12 | [GPU.pdf](lectures/3_gpu.pdf) | Nvidia‘s CUDA parallel computation API from Python: [Link](https://mathema.tician.de/software/pycuda/) |
 | GPU Performance | 02/17 | [GPU_perf.pdf](lectures/3_perf.pdf) | CUDA code examples in the `CUDA_code` folder. <br/> Short tutorial on how to run GPU programs on ACCRE can be found here: [ACCRE_guide.pdf](documentation/accre_gpu_guide.pdf)  |
 | Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
-| MPI | 02/26 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
-| Using ACCRE resources | | | |
-| Distributied-memory algorithms | | | |If that is true then I don't understand why we do
+| Homework Review | 02/24 | | |
+| MPI | 02/26, 03/09 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
+| Distributied-memory algorithms I | 03/16 | | |
+| Midterm | 03/18 | | |
+| Distributied-memory algorithms II | | | |
 | Scheduling | | | |
 | Fault tolerance | | | |
 
@@ -63,7 +65,7 @@ The midterm material includes everything before the first MPI lecture (all the l
 
 The midterm is in written format, will include 6 questions and will last for one hour. The midterm is open notes.
 
-Midterm date: **March 11th, 2020**
+Midterm date: **March 18th, 2020 (online)**
 
 
 ### Homeworks
