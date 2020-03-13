@@ -77,7 +77,7 @@ There will be 3 homeworks (equal weight in the final grade):
    * Deadline: *February 14th*
 * Shared memory (GPU programming) 
    * Link to homework 2: available on Brightspace
-   * Deadline: *March 16th*
+   * Deadline: *March 20th*
 * Distributed memory (MPI programming)
    * Link to homework 3: Not available yet
    * Deadline: *April 1st*
