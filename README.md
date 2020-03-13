@@ -85,6 +85,9 @@ There will be 3 homeworks (equal weight in the final grade):
 ## Group Project
 
 ### Project
+
+**The project is currently suspended due to the cancellation of all in-person classes. More details on how this will move forward will be announced later.**
+
 The project consists of parallelizing an algorithm (in any programming language) to solve a specific problem and analyzing the scalability and bottlenecks of the parallel code. The problem to be solved can be something from your field of study, a benchmark or one discussed in class (e.g. Sort, Marix Multiplication). If a simple problem is chosen, it will have to be implemented with multiple methods (e.g. different algorithms in shared memory CPU vs GPU, or shared vs distributed CPU) and the results will have to be compared with each other and explained. All chosen problems and algorithms must be approved.
 
 **Groups** <br/>
