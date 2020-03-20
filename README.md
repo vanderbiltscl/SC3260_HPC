@@ -45,7 +45,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | GPU Performance | 02/17 | [GPU_perf.pdf](lectures/3_perf.pdf) | CUDA code examples in the `CUDA_code` folder. <br/> Short tutorial on how to run GPU programs on ACCRE can be found here: [ACCRE_guide.pdf](documentation/accre_gpu_guide.pdf)  |
 | Interconect and communication | 02/19 | [Interconnect.pdf](lectures/Interconnect.pdf) | |
 | Homework Review | 02/24 | | |
-| MPI | 02/26, 03/09 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
+| MPI | 02/26, 03/09 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | MPI code examples in the `MPI_code` folder. <br/> MPI code examples used for the slides can be found [here](https://github.com/anagainaru/MPI_Lectures) |
 | Distributied-memory algorithms I | 03/16 | [Distributed(I).pdf](lectures/Distributed(I).pdf) | |
 | Midterm | 03/18 | | |
 | Distributied-memory algorithms II | 03/23, 03/25 | [Distributed(II).pdf](lectures/Distributed(II).pdf) | |
