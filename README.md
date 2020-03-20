@@ -48,7 +48,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | MPI | 02/26, 03/09 | [MPI slides](http://ana-gainaru.com/MPI_Lectures) | |
 | Distributied-memory algorithms I | 03/16 | [Distributed(I).pdf](lectures/Distributed(I).pdf) | |
 | Midterm | 03/18 | | |
-| Distributied-memory algorithms II | | | |
+| Distributied-memory algorithms II | 03/23, 03/25 | [Distributed(II).pdf](lectures/Distributed(II).pdf) | |
 | Scheduling | | | |
 | Fault tolerance | | | |
 
