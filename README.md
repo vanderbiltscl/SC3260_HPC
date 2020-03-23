@@ -153,10 +153,9 @@ All exams and assignments must be completed individually, unless stated otherwis
 
 | Percentage grade | Undergraduate credit	| Graduate credit |
 |------------------|----------------------|-----------------|
-| Midterm exam | 30% | 25% |
-| Team Projects	| 40%	| 40% |
-| Homework	| 30%	| 15% |
-| Research article presentation | n/a | 20% |
+| Midterm exam | 40% | 40% |
+| Homework	| 60%	| 45% |
+| Research article presentation | n/a | 15% |
 
 ### Letter Grades
 
