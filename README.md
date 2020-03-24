@@ -108,7 +108,7 @@ Order of presentations will be decided by the instructors by the middle of March
 ### Presentations
 #### Only for grad students
 
-Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval before March 25th**). Feel free to chose one of these or something related to HPC from your field of study.
+Grad students need to choose a paper related to parallel/distributed programming, optimization, HPC, large-scale architectures/applications and present them in the last week of class. Chosen papers need to be approved. The following is a list of good candidate papers  (**email us your selections for approval before April 1st**). Feel free to chose one of these or something related to HPC from your field of study.
 
 1) Milind Kulkarni, Martin Burtscher, Rajasekhar Inkulu, Keshav Pingali and Calin Cascaval. "How Much Parallelism is There in Irregular Applications?" Principles and Practices of Parallel Programming (PPoPP), February, 2009.
 
@@ -128,7 +128,7 @@ Grad students need to choose a paper related to parallel/distributed programming
 
 9) J.T.Daly, "A higher order estimate of the optimum checkpoint interval for restart dumps", Future Generation Computer Systems, Volume 22, Issue 3, Pages 303-312, February 2006
 
-(*) Date and order of presentations will be decided by the instructors together with each student.
+*Students will have to prepare slides covering the motivation, the main contributions and the results for the chosen paper. The deadline for preparing the slides is April 13th*
 
 ## Additional Materials
 
