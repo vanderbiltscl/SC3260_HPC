@@ -128,7 +128,15 @@ Grad students need to choose a paper related to parallel/distributed programming
 
 9) J.T.Daly, "A higher order estimate of the optimum checkpoint interval for restart dumps", Future Generation Computer Systems, Volume 22, Issue 3, Pages 303-312, February 2006
 
-*Students will have to prepare slides covering the motivation, the main contributions and the results for the chosen paper. The deadline for preparing the slides is April 13th*
+**The submission will be done on Brightspace:** 
+* Students will have to prepare slides (1-2 slides for each):
+   * Describing what the paper is trying to solve
+   * The current state-of-the-art related to the problem tackled by the paper
+   * What is the paper bringing new compared to the state-of-the-art
+   * Details on the implementation that is solving the problem
+   * Results
+   * Students optinion on the paper
+* Deadline: *April 13th*
 
 ## Additional Materials
 
