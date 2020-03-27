@@ -136,6 +136,8 @@ Grad students need to choose a paper related to parallel/distributed programming
    * Details on the implementation that is solving the problem
    * Results
    * Students optinion on the paper
+
+* The slides will be uploaded on the website and will be accessible to all the other students
 * Deadline: *April 13th*
 
 ## Additional Materials
