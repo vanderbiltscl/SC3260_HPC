@@ -49,6 +49,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Distributied-memory algorithms I | 03/16 | [Distributed(I).pdf](lectures/Distributed(I).pdf) | |
 | Midterm | 03/18 | | |
 | Distributied-memory algorithms II | 03/23, 03/25 | [Distributed(II).pdf](lectures/Distributed(II).pdf) | |
+| Parallel File System | 03/30 |  [PFS.pdf](lectures/4_pfs.pdf) | The two examples used in the slides can be found here: [PFS_example.pdf](lectures/4_pfs_example.pdf)|
 | Scheduling | | | |
 | Fault tolerance | | | |
 
