@@ -50,7 +50,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Midterm | 03/18 | | |
 | Distributied-memory algorithms II | 03/23, 03/25 | [Distributed(II).pdf](lectures/Distributed(II).pdf) | |
 | Parallel File System | 03/30 |  [PFS.pdf](lectures/4_pfs.pdf) | The two examples used in the slides can be found here: [PFS_example.pdf](lectures/4_pfs_example.pdf)|
-| Scheduling | | | |
+| Scheduling | 04/01 |  [BatchScheduler.pdf](lectures/5_scheduler.pdf) | |
 | Fault tolerance | | | |
 
 ### Midterm
