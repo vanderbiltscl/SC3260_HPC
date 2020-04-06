@@ -51,7 +51,7 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Distributied-memory algorithms II | 03/23, 03/25 | [Distributed(II).pdf](lectures/Distributed(II).pdf) | |
 | Parallel File System | 03/30 |  [PFS.pdf](lectures/4_pfs.pdf) | The two examples used in the slides can be found here: [PFS_example.pdf](lectures/4_pfs_example.pdf)|
 | Scheduling I | 04/01 |  [BatchScheduler(I).pdf](lectures/5_scheduler.pdf) | |
-| Scheduling II | 04/06 |  [BatchScheduler(II).pdf](lectures/5_scheduler2.pdf) | Batch Scheduler Simulator: [ScheduleFlow.zip](lectures/ScheduleFlow.zip)<br/> To run the examples from the slides: `cd examples`, `python generate_gif_example.py` <br/> GIF files can be found in ../draw <br/> Generating GIFs requires pdflatex and convert from ImageMagick <br/> Updates on [Github](https://github.com/anagainaru/ScheduleFlow) |
+| Scheduling II | 04/06 |  [BatchScheduler(II).pdf](lectures/5_scheduler2.pdf) | Batch Scheduler Simulator: [ScheduleFlow.zip](schedule_simulations/ScheduleFlow.zip)<br/> To run the examples from the slides: `cd examples`, `python generate_gif_example.py` <br/> GIF files can be found in ../draw <br/> Generating GIFs requires pdflatex and convert from ImageMagick <br/> Updates on [Github](https://github.com/anagainaru/ScheduleFlow) |
 | Fault tolerance | | | |
 
 ### Midterm
