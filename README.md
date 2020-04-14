@@ -53,6 +53,18 @@ The tentative schedule with PDF lecture notes is shown below (**refresh this pag
 | Scheduling I | 04/01 |  [BatchScheduler(I).pdf](lectures/5_scheduler.pdf) | |
 | Scheduling II | 04/06 |  [BatchScheduler(II).pdf](lectures/5_scheduler2.pdf) | Batch Scheduler Simulator: [ScheduleFlow.zip](schedule_simulations/ScheduleFlow.zip)<br/> To run the examples from the slides: `cd examples`, `python generate_gif_example.py` <br/> GIF files can be found in ../draw <br/> Generating GIFs requires pdflatex and convert from ImageMagick <br/> Updates on [Github](https://github.com/anagainaru/ScheduleFlow) |
 | Fault tolerance | 04/08 |  [FaultTolerance.pdf](lectures/6_fault_tolerance.pdf) | |
+| Grad students presentations | 04/13 | Below |  Papers and presentations in the `research` folder |
+
+**Grad students presentations**
+
+| Paper        | Presenter | Slides           | Paper |
+| --------------- |------|-----------------:| -----------:|
+| A Three-Dimensional Approach to Parallel Matrix Multiplication | Damin Xia | [p1_slides.pdf](research/p1_slides.pdf) |  [p1_paper.pdf](research/p1_paper.pdf)  |
+| Exposing Hidden Performance Opportunities in High Performance GPU Applications | Chloe Frame | [p2_slides.pdf](research/p2_slides.pdf) |  [p2_paper.pdf](research/p2_paper.pdf)  |
+| GROMACS: High performance molecular simulations through multi-level parallelism from laptops to supercomputers | Quach Co | [p3_slides.pdf](research/p3_slides.pdf) |  [p3_paper.pdf](research/p3_paper.pdf)  |
+| Strong scaling of general-purpose molecular dynamics simulations on GPUs | Duncan Steward | [p4_slides.pdf](research/p4_slides.pdf) |  [p3_paper.pdf](research/p4_paper.pdf)  |
+| How Much Parallelism is There in Irregular Applications? | Xiaobo Liu | [p5_slides.pdf](research/p5_slides.pdf) |  [p3_paper.pdf](research/p5_paper.pdf)  |
+
 
 ### Midterm
 The midterm material includes everything before the first MPI lecture (all the lectures including the one on 02/19). The topics include:
